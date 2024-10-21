@@ -1,0 +1,4 @@
+build:
+  commands:
+    - pip install --upgrade pip  # This upgrades pip
+    - pip install -r requirements.txt  # This installs the dependencies
